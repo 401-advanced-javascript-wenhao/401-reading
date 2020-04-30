@@ -1,4 +1,4 @@
-# Reading 11 - Authentication
+# Reading 11 - Authentication - 4/27/2020
 
 ## User Modeling
 * Emails, user names, and addresses can be stored in plain text, as long as the database is password protected and/or behind a firewall.

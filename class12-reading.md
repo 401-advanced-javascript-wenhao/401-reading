@@ -1,4 +1,4 @@
-# Reading 12 - OAuth 2.0
+# Reading 12 - OAuth 2.0 - 4/28/2020
 
 ## OAuth 2.0
 * an open standard for access delegation.
