@@ -2,7 +2,7 @@
 
 ## Event Driven Programming
 How can we leverage event driven in software application?
-* Everything is JS is an object. Even arrays, functions, documents, windows are object.
+* Everything in JS is an object. Even arrays, functions, documents, windows are object.
 * Most action in JS are event driven
   * UI Events - click, hover, zoom etc
   * Express routes
