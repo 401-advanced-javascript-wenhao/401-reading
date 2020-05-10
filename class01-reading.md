@@ -9,7 +9,7 @@
 ## Node.js
 * Open source framework with V8 javascript runtime engine
 * Asynchronous and Non-Block
-* Use an event loop to run asyncronous I/O with ease
+* Use an event loop to run asynchronous I/O with ease
 
 ## package.json
 * Configures a Node.js package
