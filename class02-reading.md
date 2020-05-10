@@ -1,4 +1,4 @@
-# Reading 2 - Classes, Inheritance, Functional Programming
+# Reading 2 - Classes, Inheritance, Functional Programming - 4/14/2020
 
 ## Functional Programming
 * Distinction between pure and impure code
