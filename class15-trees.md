@@ -1,4 +1,4 @@
-# Reading 5 - Trees - 5/10/2020
+# Reading 15 - Trees - 5/10/2020
 
 ## Common Terminology
 * Node - A node is the individual item/data that makes up the Tree data structure
