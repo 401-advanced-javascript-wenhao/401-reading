@@ -6,7 +6,7 @@
 * Declarative: make code more predictable and easier to debug
 * Component-Based: encapsulated components that manage their own state, then compose them to make complex UIs
 * Function and Class Components
-* App would re-render whne the state changes
+* App would re-render when the state changes
 
 ## JSX  
 * A syntax extension to JS
