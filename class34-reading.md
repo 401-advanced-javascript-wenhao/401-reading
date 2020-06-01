@@ -1,4 +1,4 @@
-# Reading 34 - `<Login />` and `<Auth />` 
+# Reading 34 - `<Login />` and `<Auth />` - 5/31/2020
 
 ## Authentication + Role Based Authorization  
 Problems need to solve: 
