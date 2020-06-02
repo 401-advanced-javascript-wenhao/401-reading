@@ -19,6 +19,6 @@ Redux is a library that specializes in sharing state between coomponents using a
 * Action creators: functions that retun an action 
 * Reducers: evaluate the "type" property on an action and makes a copy of the state, given the payload  
 * Reducers get included into the creation of store - the single object of tree holding in the app) with `createStore(reducer)`  
-* Application access this state through use of a `react-redux` npm module that gives us a `<Provider` component 
+* Application access this state through use of a `react-redux` npm module that gives us a `<Provider>` component 
 * `<Provider>` component has a prop called `store` that takes in the state and feeds it to our entire app
 
